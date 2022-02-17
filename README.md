@@ -12,3 +12,5 @@
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+CONTACT - Mail me at agarwal.deeksha498@gmail.com
