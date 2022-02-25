@@ -3,7 +3,7 @@
 <!-- **deekshagg/deekshagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-
+✨[**LeetCode**](https://leetcode.com/deekshagg/)✨
 - 🔭 I’m currently working on JavaDataStructures✨...
 - 🌱 I’m currently learning React...
 <!-- - 👯 I’m looking to collaborate on ... -->
