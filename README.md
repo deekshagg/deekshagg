@@ -23,3 +23,5 @@
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+[![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deekshagg)](https://github.com/deekshagg/github-readme-stats)
