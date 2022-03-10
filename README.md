@@ -5,9 +5,9 @@
 <!-- Here are some ideas to get you started: -->
 ### ✨[**LeetCode**](https://leetcode.com/deekshagg/)✨
 
-  - 🔭 I’m currently working on newsApp (ReactJS)✨...
+  - 🔭 I’m currently working on iNoteBook (ReactJS)✨...
   - 🌱 I’m currently learning React.JS | Java | DataStructures | Algorithms
-  - 💬 Check out my recent first project on react about text utils, do share the feedback;)
+  - 💬 Check out my recent first project on react about TextUtils and NewMonkeyApp, do share the feedback;)
 
 ---
 
@@ -17,7 +17,7 @@
 
 
 
-<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 👯 I’m looking to collaborate on to Study Together -->
 <!-- - 🤔 I’m looking for help with ... -->
   
 
