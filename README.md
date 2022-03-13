@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **JavaScript,React,NodeJs.**
 
-- 📫 How to reach me **agarwal.deeksha498@gmail.com*
+- 📫 How to reach me **agarwal.deeksha498@gmail.com**
 
 - 💬 Check out my recent first project on react about TextUtils and NewMonkeyApp, do share the feedback ;)
 
-- ⚡ Fun fact **I Think I Am Awesome**
+- ⚡ Fun fact **I Think I Am "D for DECENT"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
