@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diksha</h1>
-<h3 align="center">A passionate frontend developer and Competative Coder from India</h3>
+<!-- <h3 align="center">A passionate frontend developer and Competative Coder from India</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshagg&label=Profile%20views&color=0e75b6&style=flat" alt="deekshagg" /> </p>
 
-### ✨[**LeetCode**](https://leetcode.com/deekshagg/)✨
+<!-- ### ✨[**LeetCode**](https://leetcode.com/deekshagg/)✨ -->
 
 - 🔭 I’m currently working on **To Be A Full Stack Developer**
 
