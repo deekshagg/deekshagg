@@ -6,11 +6,12 @@
 
 - 🔭 I’m currently working on **To Be A Full Stack Developer**
 
-- 🌱 I’m currently learning **JavaScript,React,NodeJs.**
+- 🌱 I’m currently learning **JavaScript, React, NodeJs, SpringBoot.**
 
 - 📫 How to reach me **agarwal.deeksha498@gmail.com**
 
-- 💬 Check out my recent first project on react about TextUtils and NewMonkeyApp, do share the feedback ;)
+- 💬 Check out my recent first project on react about TextUtils and NewMonkeyApp, do share the feedback. ^^
+- ROCK PAPER SCISSOR GAME COMING SOON ;)
 
 - ⚡ Fun fact I Think I Am
   - "D for DECENT"
